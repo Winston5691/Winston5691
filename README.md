@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Winston Langat</a></h1>
-<h3 align="center">A passionate software and data developer in Kenya &#127470;&#127475</h3>
+<h3 align="center">A passionate software and data developer in Kenya </h3>
 
 <p align="left"> <a href="https://twitter.com/Winstongarfiel4" target="blank"><img src="https://img.shields.io/twitter/follow/winstongarfiel4?logo=twitter&style=for-the-badge" alt="Winstongarfiel4" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Ruby
 
-- 📝 I regularly post my projects on my github profile Winston5691
+- 📝 I regularly post my projects on my github profile **Winston5691**
 
 - 💬 Ask me about **Reactjs & React-Native**
 
